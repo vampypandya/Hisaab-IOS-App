@@ -16,6 +16,19 @@
 		2381FA6E2749DB4E00C93D5C /* HisaabCoreDataTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2381FA6D2749DB4E00C93D5C /* HisaabCoreDataTests.swift */; };
 		2381FA782749DB4E00C93D5C /* HisaabCoreDataUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2381FA772749DB4E00C93D5C /* HisaabCoreDataUITests.swift */; };
 		2381FA7A2749DB4E00C93D5C /* HisaabCoreDataUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2381FA792749DB4E00C93D5C /* HisaabCoreDataUITestsLaunchTests.swift */; };
+		2381FAAA2749DBC700C93D5C /* HisaabContoller.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2381FA962749DBC700C93D5C /* HisaabContoller.swift */; };
+		2381FAAB2749DBC700C93D5C /* HisaabListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2381FA972749DBC700C93D5C /* HisaabListView.swift */; };
+		2381FAAC2749DBC700C93D5C /* InsightsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2381FA992749DBC700C93D5C /* InsightsView.swift */; };
+		2381FAAD2749DBC700C93D5C /* TabBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2381FA9A2749DBC700C93D5C /* TabBarView.swift */; };
+		2381FAAF2749DBC700C93D5C /* Authenticator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2381FA9E2749DBC700C93D5C /* Authenticator.swift */; };
+		2381FAB02749DBC700C93D5C /* TitleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2381FA9F2749DBC700C93D5C /* TitleView.swift */; };
+		2381FAB12749DBC700C93D5C /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2381FAA02749DBC700C93D5C /* LoginView.swift */; };
+		2381FAB22749DBC700C93D5C /* SignupView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2381FAA12749DBC700C93D5C /* SignupView.swift */; };
+		2381FAB32749DBC700C93D5C /* ExpenseCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2381FAA22749DBC700C93D5C /* ExpenseCardView.swift */; };
+		2381FAB42749DBC700C93D5C /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2381FAA42749DBC700C93D5C /* ProfileView.swift */; };
+		2381FAB52749DBC700C93D5C /* AddCategoryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2381FAA62749DBC700C93D5C /* AddCategoryView.swift */; };
+		2381FAB62749DBC700C93D5C /* AddExpenseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2381FAA72749DBC700C93D5C /* AddExpenseView.swift */; };
+		2381FAB72749DBC700C93D5C /* LargeButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2381FAA92749DBC700C93D5C /* LargeButtonView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +61,19 @@
 		2381FA732749DB4E00C93D5C /* HisaabCoreDataUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HisaabCoreDataUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2381FA772749DB4E00C93D5C /* HisaabCoreDataUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HisaabCoreDataUITests.swift; sourceTree = "<group>"; };
 		2381FA792749DB4E00C93D5C /* HisaabCoreDataUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HisaabCoreDataUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		2381FA962749DBC700C93D5C /* HisaabContoller.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HisaabContoller.swift; sourceTree = "<group>"; };
+		2381FA972749DBC700C93D5C /* HisaabListView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HisaabListView.swift; sourceTree = "<group>"; };
+		2381FA992749DBC700C93D5C /* InsightsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InsightsView.swift; sourceTree = "<group>"; };
+		2381FA9A2749DBC700C93D5C /* TabBarView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TabBarView.swift; sourceTree = "<group>"; };
+		2381FA9E2749DBC700C93D5C /* Authenticator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Authenticator.swift; sourceTree = "<group>"; };
+		2381FA9F2749DBC700C93D5C /* TitleView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TitleView.swift; sourceTree = "<group>"; };
+		2381FAA02749DBC700C93D5C /* LoginView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
+		2381FAA12749DBC700C93D5C /* SignupView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SignupView.swift; sourceTree = "<group>"; };
+		2381FAA22749DBC700C93D5C /* ExpenseCardView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ExpenseCardView.swift; sourceTree = "<group>"; };
+		2381FAA42749DBC700C93D5C /* ProfileView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
+		2381FAA62749DBC700C93D5C /* AddCategoryView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddCategoryView.swift; sourceTree = "<group>"; };
+		2381FAA72749DBC700C93D5C /* AddExpenseView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddExpenseView.swift; sourceTree = "<group>"; };
+		2381FAA92749DBC700C93D5C /* LargeButtonView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LargeButtonView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +124,8 @@
 		2381FA562749DB4B00C93D5C /* HisaabCoreData */ = {
 			isa = PBXGroup;
 			children = (
+				2381FA942749DBC700C93D5C /* View */,
+				2381FA8B2749DBB400C93D5C /* Model */,
 				2381FA572749DB4B00C93D5C /* HisaabCoreDataApp.swift */,
 				2381FA592749DB4B00C93D5C /* ContentView.swift */,
 				2381FA5B2749DB4D00C93D5C /* Assets.xcassets */,
@@ -131,6 +159,89 @@
 				2381FA792749DB4E00C93D5C /* HisaabCoreDataUITestsLaunchTests.swift */,
 			);
 			path = HisaabCoreDataUITests;
+			sourceTree = "<group>";
+		};
+		2381FA8B2749DBB400C93D5C /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		2381FA942749DBC700C93D5C /* View */ = {
+			isa = PBXGroup;
+			children = (
+				2381FA952749DBC700C93D5C /* HisaabList */,
+				2381FA982749DBC700C93D5C /* Insights */,
+				2381FA9A2749DBC700C93D5C /* TabBarView.swift */,
+				2381FA9C2749DBC700C93D5C /* Title */,
+				2381FAA22749DBC700C93D5C /* ExpenseCardView.swift */,
+				2381FAA32749DBC700C93D5C /* Profile */,
+				2381FAA52749DBC700C93D5C /* AddExpense */,
+				2381FAA82749DBC700C93D5C /* Custom */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		2381FA952749DBC700C93D5C /* HisaabList */ = {
+			isa = PBXGroup;
+			children = (
+				2381FA962749DBC700C93D5C /* HisaabContoller.swift */,
+				2381FA972749DBC700C93D5C /* HisaabListView.swift */,
+			);
+			path = HisaabList;
+			sourceTree = "<group>";
+		};
+		2381FA982749DBC700C93D5C /* Insights */ = {
+			isa = PBXGroup;
+			children = (
+				2381FA992749DBC700C93D5C /* InsightsView.swift */,
+			);
+			path = Insights;
+			sourceTree = "<group>";
+		};
+		2381FA9C2749DBC700C93D5C /* Title */ = {
+			isa = PBXGroup;
+			children = (
+				2381FA9D2749DBC700C93D5C /* ViewModels */,
+				2381FA9F2749DBC700C93D5C /* TitleView.swift */,
+				2381FAA02749DBC700C93D5C /* LoginView.swift */,
+				2381FAA12749DBC700C93D5C /* SignupView.swift */,
+			);
+			path = Title;
+			sourceTree = "<group>";
+		};
+		2381FA9D2749DBC700C93D5C /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+				2381FA9E2749DBC700C93D5C /* Authenticator.swift */,
+			);
+			path = ViewModels;
+			sourceTree = "<group>";
+		};
+		2381FAA32749DBC700C93D5C /* Profile */ = {
+			isa = PBXGroup;
+			children = (
+				2381FAA42749DBC700C93D5C /* ProfileView.swift */,
+			);
+			path = Profile;
+			sourceTree = "<group>";
+		};
+		2381FAA52749DBC700C93D5C /* AddExpense */ = {
+			isa = PBXGroup;
+			children = (
+				2381FAA62749DBC700C93D5C /* AddCategoryView.swift */,
+				2381FAA72749DBC700C93D5C /* AddExpenseView.swift */,
+			);
+			path = AddExpense;
+			sourceTree = "<group>";
+		};
+		2381FAA82749DBC700C93D5C /* Custom */ = {
+			isa = PBXGroup;
+			children = (
+				2381FAA92749DBC700C93D5C /* LargeButtonView.swift */,
+			);
+			path = Custom;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -263,10 +374,23 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2381FAB22749DBC700C93D5C /* SignupView.swift in Sources */,
 				2381FA612749DB4D00C93D5C /* Persistence.swift in Sources */,
+				2381FAB62749DBC700C93D5C /* AddExpenseView.swift in Sources */,
+				2381FAAD2749DBC700C93D5C /* TabBarView.swift in Sources */,
+				2381FAAC2749DBC700C93D5C /* InsightsView.swift in Sources */,
 				2381FA5A2749DB4B00C93D5C /* ContentView.swift in Sources */,
+				2381FAAB2749DBC700C93D5C /* HisaabListView.swift in Sources */,
 				2381FA642749DB4D00C93D5C /* HisaabCoreData.xcdatamodeld in Sources */,
+				2381FAAF2749DBC700C93D5C /* Authenticator.swift in Sources */,
 				2381FA582749DB4B00C93D5C /* HisaabCoreDataApp.swift in Sources */,
+				2381FAB12749DBC700C93D5C /* LoginView.swift in Sources */,
+				2381FAB02749DBC700C93D5C /* TitleView.swift in Sources */,
+				2381FAB72749DBC700C93D5C /* LargeButtonView.swift in Sources */,
+				2381FAB32749DBC700C93D5C /* ExpenseCardView.swift in Sources */,
+				2381FAAA2749DBC700C93D5C /* HisaabContoller.swift in Sources */,
+				2381FAB42749DBC700C93D5C /* ProfileView.swift in Sources */,
+				2381FAB52749DBC700C93D5C /* AddCategoryView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
